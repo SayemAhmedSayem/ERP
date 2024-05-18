@@ -19,13 +19,13 @@ The best way an enterprise resource planning system can deliver the most value i
 # ERP software system types
 There are three types of ERP software systems: onsite systems, cloud-based systems and hybrid systems. They all differ from one another and have their advantages and disadvantages, depending on business needs and ERP approach. Any of these enterprise resource planning software systems can help a company in decision-making and profitability.
 
-## Onsite ERP:
+### Onsite ERP:
 This software, also referred to as on-premises ERP, is deployed onsite and is mostly controlled in-house, or by the company’s enterprise. A business would choose this option if the business wanted to be in total control of the ERP software and security. If you are to choose this ERP software option, it would require a dedicated IT resource on-premises to handle the technical and application maintenance.
 
-## Cloud-based ERP: 
+### Cloud-based ERP: 
 The cloud-based ERP system, often referred to as software-as-a-service or SaaS, means that a third party is managing the ERP software in the cloud. Using technologies such as artificial intelligence (AI) and machine learning, this flexible option system can provide greater automation efficiencies and allow employees to search through organizational data on any device through the internet. IBM®, Infor, Microsoft, Oracle and SAP offer new ERP solutions.
 
 This is a popular model for ERP software due to its scalability, agility and lower cost. The main disadvantage is the security risk that you take when trusting an ERP vendor. The data for your business is sensitive and requires careful handling.
 
-## Hybrid ERP: 
+### Hybrid ERP: 
 This system is for companies looking for characteristics of both an onsite and SaaS model to meet their business requirements. In this model, some of the ERP applications and data will be on the cloud and some are on premises. This can sometimes be referred to as a two-tier ERP.
